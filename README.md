@@ -12,7 +12,7 @@
 
 ### Featured Projects
 - **Geocoding Tools**  
-  ![Geocode](https://tenor.com/view/globe-rotating-earth-spinning-gif-17403033)
+  ![Geocode](/transparent_globe.gif)
   - **geocode-with-google** (Public): Automate geocoding of addresses from Excel files using Selenium WebDriver, with caching and logging for efficient data processing.
   - **geocode-with-nominatim** (Public): Efficient Python-based geocoding tool with local Nominatim server support, caching, and progress tracking for large datasets.
 
