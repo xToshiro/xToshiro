@@ -14,7 +14,7 @@
 ### Featured Projects
 
 - **Air Quality Brazil - Dashboard 🌎**  
-  ![dashboard](/dashboard_gif.gif)
+  
   This repository hosts tools and data for monitoring air quality in Brazil. The dashboard serves as a visualization hub by aggregating data from various air quality networks, supporting research and increasing public awareness of air pollution trends and solutions.
   
   📊 About the Project  
@@ -24,7 +24,6 @@
   - TRAMA (Transport and Environment Laboratory) – UFC (Federal University of Ceará)  
   - CITINOVA – Foundation for Science, Technology, and Innovation of Fortaleza  
   - Fortaleza City Hall
-  ![logo_trama](/logo_footer.png)
 
 - **Geocoding Tools**  
   ![Geocode](/transparent_globe.gif)
