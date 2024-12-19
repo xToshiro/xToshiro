@@ -14,7 +14,7 @@
 ### Featured Projects
 
 - **Air Quality Brazil - Dashboard 🌎**  
-  ![dashboard](/dashboard.gif)
+  ![dashboard](/dashboard_gif.gif)
   This repository hosts tools and data for monitoring air quality in Brazil. The dashboard serves as a visualization hub by aggregating data from various air quality networks, supporting research and increasing public awareness of air pollution trends and solutions.
   
   📊 About the Project  
