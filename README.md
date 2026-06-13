@@ -1,6 +1,6 @@
 <!-- Header typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jairo+Ivo!+%F0%9F%9A%80;Mestrando+em+Eng.+de+Transportes+(UFC);Desenvolvedor+IoT+%26+Web;Entusiasta+de+An%C3%A1lise+de+Dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jairo+Ivo!+%F0%9F%9A%80;Doutorando+em+Eng.+de+Transportes+(UFC);Desenvolvedor+IoT+%26+Web;Entusiasta+de+An%C3%A1lise+de+Dados" alt="Typing SVG" />
 </div>
 
 <p align="center">
