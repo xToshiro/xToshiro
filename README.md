@@ -66,25 +66,70 @@ Minha paixão está na interseção entre **tecnologia**, **sistemas inteligente
 
 ## 🚀 Projetos em Destaque
 
-### 1. [Air Quality Brazil - Dashboard](https://github.com/xToshiro/air-quality-brazil) 🌎
-Plataforma interativa para monitoramento e análise histórica da qualidade do ar em Fortaleza/CE, utilizando dados da **Rede MOQA** em parceria com o **TRAMA (UFC)** e a **CITINOVA**.
-- **Tecnologias**: Python, Streamlit, Plotly, Pandas.
-- **Visualização do Dashboard**:
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/xToshiro/xToshiro/main/dashboard.gif" alt="Air Quality Dashboard" width="80%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </p>
-
-### 2. [PaveVibe](https://github.com/xToshiro/pavevibe) 🚗
-Dispositivo IoT embarcado em veículo que coleta vibrações do pavimento utilizando sensores de aceleração e geolocalização. Desenvolvido para catalogar e detectar imperfeições asfálticas em vias urbanas.
-- **Tecnologias**: C++, Arduino, ESP32, Acelerômetro, Módulo GPS.
-
-### 3. [GPS Temp View](https://github.com/xToshiro/gps-temp-view) 🌡️
-Estação meteorológica móvel e georreferenciada para mapeamento térmico urbano e estudo das ilhas de calor, gravando dados de temperatura, umidade e altitude no cartão SD em tempo real.
-- **Tecnologias**: C++, ESP32, BME280, u-blox GPS, SD Card Logging.
-
-### 4. [Geocode with Nominatim](https://github.com/xToshiro/geocode-with-nominatim) 📍
-Script otimizado para geocodificação massiva de endereços baseado em um servidor local Nominatim (OpenStreetMap), contando com sistema inteligente de cache e acompanhamento de progresso.
-- **Tecnologias**: Python, Geopy, SQLite (Cache), Nominatim Local API.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖥️ <a href="https://github.com/xToshiro/display-control">display-control</a></h4>
+      <p>Controlador moderno de brilho, contraste e temperatura de cor para múltiplos monitores no Windows via DDC/CI.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/CustomTkinter-FF4B4B?style=flat-square" alt="GUI" />
+      <img src="https://img.shields.io/badge/DDC%2FCI-00F2FE?style=flat-square" alt="DDC/CI" />
+      <br><br>
+      <a href="https://github.com/xToshiro/display-control/stargazers">
+        <img src="https://img.shields.io/github/stars/xToshiro/display-control?style=flat-square&logo=github&color=00F2FE" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 <a href="https://github.com/xToshiro/Universal-Serial-Monitor">Universal-Serial-Monitor</a></h4>
+      <p>Plotador e gravador de logs serial em tempo real para desenvolvimento com Arduino, ESP32 e STM32.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt" />
+      <img src="https://img.shields.io/badge/Serial-00F2FE?style=flat-square" alt="Serial" />
+      <br><br>
+      <a href="https://github.com/xToshiro/Universal-Serial-Monitor/stargazers">
+        <img src="https://img.shields.io/github/stars/xToshiro/Universal-Serial-Monitor?style=flat-square&logo=github&color=00F2FE" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖨️ <a href="https://github.com/xToshiro/GCode-Reconstructor">GCode-Reconstructor</a></h4>
+      <p>Interpretador e visualizador de GCode de impressão 3D com exportação para modelos DXF e STL/OBJ.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/3D_Rendering-FFD700?style=flat-square" alt="3D" />
+      <img src="https://img.shields.io/badge/CAD%20Export-00599C?style=flat-square" alt="CAD" />
+      <br><br>
+      <a href="https://github.com/xToshiro/GCode-Reconstructor/stargazers">
+        <img src="https://img.shields.io/github/stars/xToshiro/GCode-Reconstructor?style=flat-square&logo=github&color=00F2FE" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/xToshiro/pavevibe">PaveVibe</a></h4>
+      <p>Dispositivo IoT embarcado para mapeamento de irregularidades em pavimentos urbanos usando acelerômetro e GPS.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/GPS-00F2FE?style=flat-square" alt="GPS" />
+      <br><br>
+      <a href="https://github.com/xToshiro/pavevibe/stargazers">
+        <img src="https://img.shields.io/github/stars/xToshiro/pavevibe?style=flat-square&logo=github&color=00F2FE" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🌎 <a href="https://github.com/xToshiro/air-quality-brazil">Air Quality Brazil (Dashboard)</a></h4>
+      <p>Dashboard interativo para análise histórica e monitoramento de poluentes atmosféricos em Fortaleza/CE pela Rede MOQA.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <br><br>
+      <a href="https://github.com/xToshiro/air-quality-brazil/stargazers">
+        <img src="https://img.shields.io/github/stars/xToshiro/air-quality-brazil?style=flat-square&logo=github&color=00F2FE" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
